@@ -1,3 +1,3 @@
 # lecture-apna-college
 This is my first Git Repository. <br>
-Author - Munish Garg
+Author - Munish Garg (mani)
